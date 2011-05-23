@@ -4,17 +4,17 @@ Add a confirmation dialog to any clickable element
 
 ## Example Usage
 
-$('.clickable').confirmable();
+    `$('.clickable').confirmable();`
 
 ## Options
 
 * title
 * action
 
-    $('.clickable').confirmable({  
+    `$('.clickable').confirmable({  
         title: 'Are you sure you want to delete this item?',  
         action: 'Yes'  
-    });  
+    });`  
 
 ## Coming Soon...
 
