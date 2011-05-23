@@ -4,7 +4,7 @@ Add a confirmation dialog to any clickable element
 
 ## Example Usage
 
-    `$('.clickable').confirmable();`
+    $('.clickable').confirmable();
 
 ## Options
 
