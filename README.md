@@ -11,10 +11,10 @@ $('.clickable').confirmable();
 * title
 * action
 
-$('.clickable').confirmable({  
-    title: 'Are you sure you want to delete this item?',  
-    action: 'Yes'  
-});  
+    $('.clickable').confirmable({  
+        title: 'Are you sure you want to delete this item?',  
+        action: 'Yes'  
+    });  
 
 ## Coming Soon...
 
